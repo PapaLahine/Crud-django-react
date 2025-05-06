@@ -1,6 +1,6 @@
 # CRUD-Django-React.js
 Basic C-reate R-etrieve U-pdate D-elete app using Django as backend and React.js as frontent
-
+lien de la video https://youtu.be/HrjLg9pGkX8
 ## Getting Started
 We are using
 ```
